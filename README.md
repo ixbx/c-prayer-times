@@ -6,7 +6,7 @@
 <img src="https://static.vecteezy.com/system/resources/previews/040/564/502/non_2x/islamic-frame-background-mosque-and-lantern-illustration-border-frame-for-ramadan-design-eid-and-islamic-festivals-vector.jpg" style="width:50%">
 </p>
 
-Based on: https://radhifadlillah.com/blog/2020-09-06-calculating-prayer-times/
+<p align="center">Based on: https://radhifadlillah.com/blog/2020-09-06-calculating-prayer-times/</p>
 
 <br />
 <br />
