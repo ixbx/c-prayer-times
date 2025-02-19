@@ -116,7 +116,7 @@ prayers.fajr.second
 
 You can do the same with `sunrise`, `zuhr`, `asr`, `maghrib`, and `isha`.
 
-![image](https://github.com/user-attachments/assets/7cdcdb4c-e1aa-429c-8887-f50380085f0b)
+![image](https://github.com/user-attachments/assets/2bc9a5cb-977f-4b49-a0b2-1328039f080a)
 
 
 ### Linux Example
