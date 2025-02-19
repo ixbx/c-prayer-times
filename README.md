@@ -93,6 +93,7 @@ To implement this in your windows Visual Studio project, you must first copy `at
 
 
 ```c
+#include "athan_calculator.h"
 #include <time>
 
 int main() {
@@ -124,6 +125,7 @@ You can do the same with `sunrise`, `zuhr`, `asr`, `maghrib`, and `isha`.
 The Linux implementation is the same as Windows, except instead of using `localtime_s`, you must use `localtime_r`.
 
 ```c
+#include "athan_calculator.h"
 #include <time>
 
 int main() {
