@@ -116,6 +116,9 @@ prayers.fajr.second
 
 You can do the same with `sunrise`, `zuhr`, `asr`, `maghrib`, and `isha`.
 
+![image](https://github.com/user-attachments/assets/7cdcdb4c-e1aa-429c-8887-f50380085f0b)
+
+
 ### Linux Example
 
 The Linux implementation is the same as Windows, except instead of using `localtime_s`, you must use `localtime_r`.
@@ -142,6 +145,9 @@ git clone https://github.com/exploitfreaker/c-prayer-times.git
 cd c-prayer-times
 ./run_linux.sh
 ```
+
+![image](https://github.com/user-attachments/assets/6432748a-3b14-4556-9412-9bfd0c3a0e9a)
+
 
 
 ## Example usage
