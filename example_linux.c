@@ -1,6 +1,5 @@
 #include "athan_calculator.h"
 #include <stdio.h>
-
 #include <time.h>
 
 // Makkah location
