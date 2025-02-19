@@ -99,7 +99,7 @@ int main() {
   time_t t = time(NULL);
   struct tm lt;
 
-  localtime_s(&t, &lt);
+  localtime_s(&lt, &t);
 
   struct georgian_date current_date = { lt.tm_mday, lt_tm_mon + 1, lt.tm_year + 19000 };
 
@@ -108,7 +108,7 @@ int main() {
 ```
 
 Then you can query a prayer time like so:
-```
+```c
 prayers.fajr.hour
 prayers.fajr.minute
 prayers.fajr.second
