@@ -1,7 +1,7 @@
 # C Prayer Times
 
-<h3 align="center">Islamic prayer time calculator source for any projects written in the C programming language</h3>
-<h3 align="center">مصدر حاسبة وقت الصلاة الإسلامية لأي مشاريع مكتوبة بلغة البرمجة C</h3>
+<h3 align="center">Islamic prayer time calculator source for any projects written in the C/C++ programming language</h3>
+<h3 align="center">ممصدر حاسبة مواقيت الصلاة الإسلامية لأي مشاريع مكتوبة بلغة البرمجة C، أو C++</h3>
 <p align="center">
 <img src="https://static.vecteezy.com/system/resources/previews/040/564/502/non_2x/islamic-frame-background-mosque-and-lantern-illustration-border-frame-for-ramadan-design-eid-and-islamic-festivals-vector.jpg" style="width:50%">
 </p>
