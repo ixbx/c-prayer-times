@@ -51,7 +51,7 @@ This should be the time zone of the city you live in in GMT (Greenwich Mean Time
 
 The shadow factor for Asr is the length of the shadow relative to an object. If you put a stick in the ground with the length of the stick from the ground is 10cm, and the length of the shadow casted by the sun of the stick is also 10cm, the shadow factor is 1, if the shadow casted by the sun from the sick is 20cm, the shadow factor is 2.
 
-There are multiple different preferences for this, see the table below for which one you need:
+There are two different preferences for this, see the table below for which one you need:
 | Jurist  | Shadow Factor |
 | ------------- | ------------- |
 | Shafi'i, Maliki, Ja'fari, Hanbali  | 1  |
