@@ -143,6 +143,7 @@ You can test it with Makkah parameters by cloning this repository and running `r
 ```c
 git clone https://github.com/exploitfreaker/c-prayer-times.git
 cd c-prayer-times
+chmod +x run_linux.sh
 ./run_linux.sh
 ```
 
