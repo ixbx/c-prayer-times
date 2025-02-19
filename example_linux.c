@@ -20,10 +20,8 @@ int main() {
 
   localtime_r(&t, &lt);
 
-  struct georgian_date current_date = {lt.tm_mday, lt.tm_mon + 1,
-                                       lt.tm_year + 1900};
-  printf("Current date: %02d/%02d/%04d\n", current_date.day, current_date.month,
-         current_date.year);
+  struct georgian_date current_date = {lt.tm_mday, lt.tm_mon + 1,lt.tm_year + 1900};
+  printf("Current date: %02d/%02d/%04d\n", current_date.day, current_date.month, current_date.year);
   printf("Current time: %02d:%02d:%02d\n\n", lt.tm_hour, lt.tm_min, lt.tm_sec);
 
   struct prayers prayers = calculate_prayer_times(TIME_ZONE, LATITUDE, LONGITUDE, ELEVATION, current_date, ASR_SHADOW_FACTOR, FAJR_SUN_ANGLE, ISHA_SUN_ANGLE);
