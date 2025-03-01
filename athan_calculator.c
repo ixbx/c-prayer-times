@@ -255,7 +255,7 @@ struct prayers calculate_prayer_times(float time_zone, float latitude,
 
   fp.fajr = sun_transit_time - ha.fajr / 15;
   fp.sunrise = sun_transit_time - ha.sunrise / 15;
-  fp.zuhr = sun_transit_time + (2.0 / 60.0);
+  fp.zuhr = sun_transit_time + (2.0 / 6.0);
   fp.asr = sun_transit_time + ha.asr / 15;
   fp.maghrib = sun_transit_time + ha.maghrib / 15;
   fp.isha = sun_transit_time + ha.isha / 15;
