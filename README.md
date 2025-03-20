@@ -3,7 +3,7 @@
 <h3 align="center">Islamic prayer time calculator source for any projects written in the C/C++ programming language</h3>
 <h3 align="center">ممصدر حاسبة مواقيت الصلاة الإسلامية لأي مشاريع مكتوبة بلغة البرمجة C، أو C++</h3>
 <p align="center">
-<img src="https://static.vecteezy.com/system/resources/previews/040/564/502/non_2x/islamic-frame-background-mosque-and-lantern-illustration-border-frame-for-ramadan-design-eid-and-islamic-festivals-vector.jpg" style="width:50%">
+<img src="https://t4.ftcdn.net/jpg/02/63/14/87/360_F_263148731_URqK7TVJz0a1jaV3IuAdTBuXmoi4lcA6.jpg" style="width:95%">
 </p>
 
 <p align="center">Based on: https://radhifadlillah.com/blog/2020-09-06-calculating-prayer-times/</p>
