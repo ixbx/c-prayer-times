@@ -102,7 +102,7 @@ int main() {
 
   localtime_s(&lt, &t);
 
-  struct georgian_date current_date = { lt.tm_mday, lt_tm_mon + 1, lt.tm_year + 19000 };
+  struct georgian_date current_date = { lt.tm_mday, lt_tm_mon + 1, lt.tm_year + 1900 };
 
   struct prayers prayers = calculate_prayer_times(3, 21.4241, 39.8173, 277, current_date, 1, 18.5, 18.5);
 }
