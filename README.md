@@ -161,6 +161,10 @@ chmod +x run_linux.sh
 ![image](https://github.com/user-attachments/assets/51fb149e-99c9-4d5e-8c12-fffd4b04f3cd)
 
 
+**Calculator being displayed on [Waybar](https://github.com/Alexays/Waybar)([Hyprland](https://hypr.land/))**
+![swappy-20250617-163415](https://github.com/user-attachments/assets/76b555d3-7c5f-4962-bc97-f2aeaddceb67)
+
+
 
 **Calculator being used as an extension for [slstatus](https://tools.suckless.org/slstatus/) on [DWM](https://dwm.suckless.org/) (Dynamic Window Manager)**
 
